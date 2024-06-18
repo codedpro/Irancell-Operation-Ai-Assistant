@@ -26,7 +26,7 @@ Irancell-Operation-Ai-Assistant is an advanced AI tool designed to analyze data 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/irancell-operation-ai-assistant.git
+   git clone https://github.com/codedpro/irancell-operation-ai-assistant.git
    cd irancell-operation-ai-assistant
    ```
 
