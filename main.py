@@ -18,7 +18,7 @@ import numpy as np
 from IPython.display import display
 from Tapas import tapas_question_answer
 from data import extract_data_from_excel
-headers = {"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiOGRlOTFlZTEtYzczNC00YWRlLWEyM2QtZWJkMTMxMjAyNzY5IiwidHlwZSI6ImFwaV90b2tlbiJ9.vWVmocHWNN5pfv7GqHkihZHctMYc1CscCc-qEeG70r8"}
+headers = {"Authorization": "Bearer APIKEY"}
 async def save_audio(audio_bytes, filename):
     with open(filename, 'wb') as f:
         f.write(audio_bytes)
