@@ -1,5 +1,8 @@
 # Irancell-Operation-Ai-Assistant Demo
 
+## Note
+The final version of this project will not be published online and will be used exclusively offline within MTN Irancell's network. Customized machine learning models have been developed specifically for this project, ensuring optimal performance and security. Consequently, the project will not be open source to maintain confidentiality and safeguard sensitive information.
+
 ## Overview
 Irancell-Operation-Ai-Assistant is an advanced AI tool designed to analyze data from Irancell's network, provide real-time insights, generate reports and speeches, and assist high-rank managers with voice commands and custom data responses. This tool aims to improve network management and offer easy access to critical data using natural language processing and sophisticated algorithms.
 
